@@ -17,7 +17,9 @@ nvidia-smi
 ```
 ### 3. installation of cuda compiler and adding it to PATH permanently.
 > [!WARNING]
+
 > [!WARNING]
+
 > [!WARNING]
 > You need to ignore text "This installation did not install the CUDA Driver. A driver of version at least 465.00 is required for CUDA 11.3 functionality to work."
 
