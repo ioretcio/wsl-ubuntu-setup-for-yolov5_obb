@@ -64,5 +64,6 @@ git clone https://github.com/hukaixuan19970627/yolov5_obb
 cd yolov5_obb/utils/nms_rotated
 python setup.py develop
 cd ../..
+pip install -r requirements.txt
 python detect.py
 ```
