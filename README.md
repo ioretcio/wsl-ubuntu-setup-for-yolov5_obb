@@ -1,5 +1,5 @@
 
-## Ubuntu configuration
+## Ubuntu configuration (for me. WSL, ubuntu 20.04, GTX 1650)
 
 ### 1. gcc configuration.
 ```bash
