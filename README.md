@@ -65,5 +65,7 @@ cd yolov5_obb/utils/nms_rotated
 python setup.py develop
 cd ../..
 pip install -r requirements.txt
-python detect.py
+python3 detect.py --source images/ --weights best.pt --imgsz 1024 --device 0
 ```
+>[!IMPORTANT]
+>add param ```--device 0```
